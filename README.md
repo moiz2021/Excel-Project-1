@@ -22,13 +22,13 @@ An interactive and comprehensive Excel dashboard analyzing customer shopping beh
 
 # 💡 Key Business Insights
 
-Top Category: Clothing leads sales revenue significantly, followed by Shoes and Technology.
+1-) Top Category: Clothing leads sales revenue significantly, followed by Shoes and Technology.
+0 
+2-Customer Demographics: Female shoppers account for 60% of overall sales volume.
 
-Customer Demographics: Female shoppers account for 60% of overall sales volume.
+3-) Preferred Payment Methods: Cash transactions generate the highest revenue, closely followed by Credit Cards.
 
-Preferred Payment Methods: Cash transactions generate the highest revenue, closely followed by Credit Cards.
-
-Top Shopping Destinations: Mall of Istanbul and Kanyon are the top-performing locations by revenue generation.
+4-) Top Shopping Destinations: Mall of Istanbul and Kanyon are the top-performing locations by revenue generation.
 
 # 🛠️ Tools & Technologies Used
 
