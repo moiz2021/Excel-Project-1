@@ -1,12 +1,10 @@
-# Excel-Project-1
-Interactive Excel Dashboard analyzing customer shopping patterns, sales by category, top shopping malls, payment methods, and demographic trends (2021–2023)
-📊 Customer Shopping Data Analysis & Excel Dashboard
+# 📊 Customer Shopping Data Analysis & Excel Dashboard
 
 An interactive and comprehensive Excel dashboard analyzing customer shopping behavior, sales distribution, payment preferences, and monthly trends using Customer Shopping Data (2021–2023).
 
-🖼️ Dashboard Preview
+# 🖼️ Dashboard Preview
 
-🚀 Key Features & Visualizations
+# 🚀 Key Features & Visualizations
 
 Top 5 Sales by Category: Visualizes revenue distribution across top product categories including Clothing, Shoes, Technology, Cosmetics, and Toys.
 
@@ -22,7 +20,7 @@ Yearly Comparison of Monthly Metrics: Year-over-year (2021, 2022, 2023) monthly 
 
 Interactive Slicers: Dynamic filtering by Year (2021–2023) and Month (Jan–Dec) to slice dashboard insights seamlessly.
 
-💡 Key Business Insights
+# 💡 Key Business Insights
 
 Top Category: Clothing leads sales revenue significantly, followed by Shoes and Technology.
 
@@ -32,6 +30,6 @@ Preferred Payment Methods: Cash transactions generate the highest revenue, close
 
 Top Shopping Destinations: Mall of Istanbul and Kanyon are the top-performing locations by revenue generation.
 
-🛠️ Tools & Technologies Used
+# 🛠️ Tools & Technologies Used
 
 Microsoft Excel
