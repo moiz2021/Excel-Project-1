@@ -6,19 +6,19 @@ An interactive and comprehensive Excel dashboard analyzing customer shopping beh
 
 # 🚀 Key Features & Visualizations
 
-Top 5 Sales by Category: Visualizes revenue distribution across top product categories including Clothing, Shoes, Technology, Cosmetics, and Toys.
+1-) Top 5 Sales by Category: Visualizes revenue distribution across top product categories including Clothing, Shoes, Technology, Cosmetics, and Toys.
 
-Top Malls by Customer Sales: Tracks highest revenue-generating shopping malls (e.g., Mall of Istanbul, Kanyon, Metrocity, Metropol AVM, Istinye Park).
+2-) Top Malls by Customer Sales: Tracks highest revenue-generating shopping malls (e.g., Mall of Istanbul, Kanyon, Metrocity, Metropol AVM, Istinye Park).
 
-Sales by Payment Mode: Breakdown of total sales driven by Cash, Credit Card, and Debit Card.
+3-) Sales by Payment Mode: Breakdown of total sales driven by Cash, Credit Card, and Debit Card.
 
-Orders vs. Sales: Dual-axis chart displaying total sales revenue alongside transaction/order volume over time.
+4-) Orders vs. Sales: Dual-axis chart displaying total sales revenue alongside transaction/order volume over time.
 
-Sales: Men vs. Women: Gender distribution chart highlighting purchasing breakdown (60% Female / 40% Male).
+5-) Sales: Men vs. Women: Gender distribution chart highlighting purchasing breakdown (60% Female / 40% Male).
 
-Yearly Comparison of Monthly Metrics: Year-over-year (2021, 2022, 2023) monthly performance comparisons.
+6-) Yearly Comparison of Monthly Metrics: Year-over-year (2021, 2022, 2023) monthly performance comparisons.
 
-Interactive Slicers: Dynamic filtering by Year (2021–2023) and Month (Jan–Dec) to slice dashboard insights seamlessly.
+7-) Interactive Slicers: Dynamic filtering by Year (2021–2023) and Month (Jan–Dec) to slice dashboard insights seamlessly.
 
 # 💡 Key Business Insights
 
