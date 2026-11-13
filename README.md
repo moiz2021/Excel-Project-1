@@ -3,6 +3,8 @@
 An interactive and comprehensive Excel dashboard analyzing customer shopping behavior, sales distribution, payment preferences, and monthly trends using Customer Shopping Data (2021–2023).
 
 # 🖼️ Dashboard Preview
+<img width="1366" height="687" alt="Dashboard by MOIZ" src="https://github.com/user-attachments/assets/17bf3690-c556-4ea9-a538-12653b7bba25" />
+
 
 # 🚀 Key Features & Visualizations
 
